@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+C:\Users\user\Desktop\MIRIM\2020\JSP\WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1519731478.index
+\Practice\src
+C:\Users\user\Desktop\MIRIM\2020\JSP\WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2328997355.index
+\Practice\src
+C:\Users\user\Desktop\MIRIM\2020\JSP\WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1538844373.index
+\Practice\src
+C:\Users\user\Desktop\MIRIM\2020\JSP\WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3552584990.index
+\Practice\src
+C:\Users\user\Desktop\MIRIM\2020\JSP\WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2685871643.index
+\Practice\src
+C:\Users\user\Desktop\MIRIM\2020\JSP\WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3244784804.index
+\text\src
+C:\Users\user\Desktop\MIRIM\2020\JSP\WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\186652594.index
+\Practice\src
